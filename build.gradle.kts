@@ -1,5 +1,6 @@
 plugins {
     kotlin("jvm") version "2.4.20"
+    id("com.coditory.integration-test") version "2.2.5"
 }
 
 group = "com.wissenstein"
